@@ -18,6 +18,6 @@ Crie na pasta raiz o arquivo config.env com os dados:
 ```
 
 ```
-API= Sua API KEY
+API= SUA API KEY
 PORT= A PORTA QUE DESEJAR
 ```
