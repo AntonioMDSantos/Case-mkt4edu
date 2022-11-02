@@ -11,13 +11,15 @@ node, nodemon, sequelize, express, axios, ejs, dotenv, body-parser, https
 ```
 npm install
 ```
-
-### Após isso, inicie o nodemon com o comando
-```
-Crie na pasta raiz o arquivo config.env com os dados: 
-```
+### Crie na pasta raiz o arquivo config.env com os dados: 
 
 ```
 API= SUA API KEY
 PORT= A PORTA QUE DESEJAR
+```
+
+### Após isso, inicie o nodemon com o comando:
+
+```
+npm start
 ```
