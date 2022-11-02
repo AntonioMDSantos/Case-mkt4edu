@@ -17,6 +17,7 @@ npm install
 Crie na pasta raiz o arquivo config.env com os dados: 
 ```
 
-```API= Sua API KEY
+```
+API= Sua API KEY
 PORT= A PORTA QUE DESEJAR
 ```
