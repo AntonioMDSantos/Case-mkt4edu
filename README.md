@@ -3,7 +3,7 @@
 #### O que foi utilizado:
 
 ```
-node, nodemon, sequelize, express, axios, ejs, dotenv, body-parser, https
+node, nodemon, express, axios, ejs, dotenv, body-parser, https
 
 ```
 
